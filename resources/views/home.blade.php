@@ -45,7 +45,6 @@
             Finding an active wallet is hard, but not impossible.
             Every time you open a random page, you have a chance of finding someone else's fortune.
             <br>
-            <br>
         </p>
 
         <h2 class="mt-8 mb-2">Automatic balance checking</h2>
