@@ -7,7 +7,7 @@
     <div class="max-w-md mx-auto">
         <h1 class="mt-4">About</h1>
         <p class="mb-8 leading-normal">
-            Keys.lol was inspired by the now defunct directory.io.
+            keys.bitcoincore.dev was inspired by the now defunct directory.io.
             Just like this website, directory.io contained pages of all bitcoin private keys.
             It caused quite the fuss when it was shared on the internet back in 2013 with the title "All Bitcoin private keys leaked".
         </p>
