@@ -23,17 +23,17 @@
 
     @if(App::environment('production'))
         {{-- auto-ads --}}
-        <script data-ad-client="ca-pub-8027891891391991" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script data-ad-client="ca-pub-6133851243738414" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85344990-4"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137696270-1"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'UA-85344990-4');
+            gtag('config', 'UA-137696270-1');
         </script>
     @endif
 
