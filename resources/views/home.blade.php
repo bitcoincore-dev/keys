@@ -46,8 +46,6 @@
             Every time you open a random page, you have a chance of finding someone else's fortune.
             <br>
             <br>
-            If you're curious which page your wallet is on, you could do a <a class="underline" href="{{ route('btcPages.search') }}">search</a> for it.
-            That will show you exactly which page your wallet is on.
         </p>
 
         <h2 class="mt-8 mb-2">Automatic balance checking</h2>
