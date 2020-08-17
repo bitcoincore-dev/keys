@@ -1,5 +1,5 @@
 @extends('layout.base-template', [
-    'title' => 'About | Keys.lol',
+    'title' => 'About | keys.bitcoincore.dev',
     'description' => 'More information about Keys.lol.',
 ])
 
